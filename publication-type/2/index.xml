@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Pascal Sturmfels</title>
+    <link>https://psturmfels.github.io/publication-type/2/</link>
+      <atom:link href="https://psturmfels.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://psturmfels.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://psturmfels.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Automated Brain Masking of Fetal Functional MRI with Open Data</title>
+      <link>https://psturmfels.github.io/publication/rutherford-2021-automated/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/rutherford-2021-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining explanations: Axiomatic feature interactions for deep networks</title>
+      <link>https://psturmfels.github.io/publication/janizek-2021-explaining/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/janizek-2021-explaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FoggySight: A Scheme for Facial Lookup Privacy</title>
+      <link>https://psturmfels.github.io/publication/evtimov-2021-foggy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/evtimov-2021-foggy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FoggySight: A Scheme for Facial Lookup Privacy.</title>
+      <link>https://psturmfels.github.io/publication/evtimov-2021-foggysight/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/evtimov-2021-foggysight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving performance of deep learning models with axiomatic attribution priors and expected gradients</title>
+      <link>https://psturmfels.github.io/publication/erion-2021-improving/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/erion-2021-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies</title>
+      <link>https://psturmfels.github.io/publication/beebe-2021-unified/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/beebe-2021-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile Prediction: An Alignment-Based Pre-Training Task for Protein Sequence Models</title>
+      <link>https://psturmfels.github.io/publication/sturmfels-2020-profile/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/sturmfels-2020-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer&#39;s disease neuropathologies</title>
+      <link>https://psturmfels.github.io/publication/beebe-2020-unified/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/beebe-2020-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing the impact of feature attribution baselines</title>
+      <link>https://psturmfels.github.io/publication/sturmfels-2020-visualizing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/sturmfels-2020-visualizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated brain masking of fetal functional MRI</title>
+      <link>https://psturmfels.github.io/publication/rutherford-2019-automated/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/rutherford-2019-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the origins of human brain development: Automated processing of fetal fMRI</title>
+      <link>https://psturmfels.github.io/publication/rutherford-2019-observing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/rutherford-2019-observing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Select and permute: An improved online framework for scheduling to minimize weighted completion time</title>
+      <link>https://psturmfels.github.io/publication/khuller-2019-select/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/khuller-2019-select/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Lair: a resource for exploratory analysis of published RNA-Seq data</title>
+      <link>https://psturmfels.github.io/publication/pimentel-2016-lair/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/pimentel-2016-lair/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

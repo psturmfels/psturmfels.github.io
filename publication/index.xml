@@ -5,15 +5,23 @@
     <link>https://psturmfels.github.io/publication/</link>
       <atom:link href="https://psturmfels.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://psturmfels.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://psturmfels.github.io/publication/</link>
     </image>
     
     <item>
-      <title>Explaining Explanations: Axiomatic Feature Interactions for Deep Networks</title>
+      <title>Automated Brain Masking of Fetal Functional MRI with Open Data</title>
+      <link>https://psturmfels.github.io/publication/rutherford-2021-automated/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/rutherford-2021-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining explanations: Axiomatic feature interactions for deep networks</title>
       <link>https://psturmfels.github.io/publication/janizek-2021-explaining/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://psturmfels.github.io/publication/janizek-2021-explaining/</guid>
@@ -29,10 +37,26 @@
     </item>
     
     <item>
+      <title>FoggySight: A Scheme for Facial Lookup Privacy.</title>
+      <link>https://psturmfels.github.io/publication/evtimov-2021-foggysight/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/evtimov-2021-foggysight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving performance of deep learning models with axiomatic attribution priors and expected gradients</title>
       <link>https://psturmfels.github.io/publication/erion-2021-improving/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://psturmfels.github.io/publication/erion-2021-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified AI framework to uncover deep interrelationships between gene expression and Alzheimer’s disease neuropathologies</title>
+      <link>https://psturmfels.github.io/publication/beebe-2021-unified/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/beebe-2021-unified/</guid>
       <description></description>
     </item>
     
@@ -53,7 +77,7 @@
     </item>
     
     <item>
-      <title>Visualizing the Impact of Feature Attribution Baselines</title>
+      <title>Visualizing the impact of feature attribution baselines</title>
       <link>https://psturmfels.github.io/publication/sturmfels-2020-visualizing/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://psturmfels.github.io/publication/sturmfels-2020-visualizing/</guid>
@@ -81,6 +105,14 @@
       <link>https://psturmfels.github.io/publication/khuller-2019-select/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://psturmfels.github.io/publication/khuller-2019-select/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A domain guided cnn architecture for predicting age from structural brain images</title>
+      <link>https://psturmfels.github.io/publication/sturmfels-2018-domain/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://psturmfels.github.io/publication/sturmfels-2018-domain/</guid>
       <description></description>
     </item>
     

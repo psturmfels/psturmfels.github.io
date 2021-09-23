@@ -1,280 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   
   <url>
-    <loc>https://psturmfels.github.io/project/path_explain/</loc>
-    <lastmod>2020-02-24T17:16:47-08:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/project/path_explain/</loc><lastmod>2020-02-24T17:16:47-08:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/project/attribution_priors/</loc>
-    <lastmod>2020-02-24T17:28:11-08:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/project/attribution_priors/</loc><lastmod>2020-02-24T17:28:11-08:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/pascal-sturmfels/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication_types/2/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/janizek-2021-explaining/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/evtimov-2021-foggy/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication-type/2/</loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/gabriel-erion/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/rutherford-2021-automated/</loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/erion-2021-improving/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/ivan-evtimov/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/joseph-d-janizek/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/janizek-2021-explaining/</loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication_types/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/evtimov-2021-foggy/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/evtimov-2021-foggysight/</loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/scott-lundberg/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/su-in-lee/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/erion-2021-improving/</loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/tadayoshi-kohno/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/project/</loc>
-    <lastmod>2020-02-24T17:28:11-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/ali-madani/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/and-su-in-lee/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/ethan-weinberger/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/jesse-vig/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/nazneen-fatema-rajani/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/nicasia-beebe-wang/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/phillip-l.-de-jager/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/sturmfels-2020-profile/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/safiye-celik/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication_types/</loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/sara-mostafavi/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/</loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/beebe-2020-unified/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/sturmfels-2020-visualizing/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/rutherford-2019-automated/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/chandra-sripada/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/dustin-scheinost/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/jasmine-hect/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:02-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/jenna-wiens/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/beebe-2021-unified/</loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/jingling-li/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/kevin-sun/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/marion-i-van-den-heuval/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/marion-van-den-heuval/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/mike-angstadt/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/moriah-thomason/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/rutherford-2019-observing/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/prayaag-venkat/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/saige-rutherford/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/samir-khuller/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/khuller-2019-select/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://psturmfels.github.io/project/</loc><lastmod>2020-02-24T17:28:11-08:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/harold-pimentel/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/lior-pachter/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/nicolas-bray/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/pall-melsted/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/publication/pimentel-2016-lair/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/authors/admin/</loc>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/sturmfels-2020-profile/</loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/categories/</loc>
-  </url>
-  
+    <loc></loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/post/</loc>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/beebe-2020-unified/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/talk/</loc>
-  </url>
-  
+    <loc>https://psturmfels.github.io/publication/sturmfels-2020-visualizing/</loc><lastmod>2021-09-23T11:42:01-07:00</lastmod></url>
   <url>
-    <loc>https://psturmfels.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+    <loc>https://psturmfels.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/publication/rutherford-2019-automated/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/publication/rutherford-2019-observing/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/publication/khuller-2019-select/</loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/publication-type/1/</loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/publication/sturmfels-2018-domain/</loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/publication/pimentel-2016-lair/</loc><lastmod>2021-09-23T11:42:00-07:00</lastmod></url>
+  <url>
+    <loc>https://psturmfels.github.io/admin/</loc></url></urlset>
