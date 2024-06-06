@@ -1,0 +1,31 @@
+h1 {
+    font-size: 48px;
+}
+p {
+    font-size: 16px;
+}
+h3 {
+    font-size: 24px;
+}
+.text-container p {
+    text-align: center;
+}
+.text-container h1 {
+    text-align: center;
+}
+.text-container h3 {
+    text-align: center;
+}
+
+/* Desktop styles */
+@media (min-width: 992px) {
+    .text-container p {
+        text-align: left;
+    }
+    .text-container h1 {
+        text-align: left;
+    }
+    .text-container h3 {
+        text-align: left;
+    }
+}
