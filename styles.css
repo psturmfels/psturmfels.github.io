@@ -1,31 +1,179 @@
-h1 {
-    font-size: 48px;
-}
-p {
-    font-size: 16px;
-}
-h3 {
-    font-size: 24px;
-}
-.text-container p {
-    text-align: center;
-}
-.text-container h1 {
-    text-align: center;
-}
-.text-container h3 {
-    text-align: center;
+:root {
+    --max-width: 960px;
+    --bg: #ffffff;
+    --text: #17181a;
+    --muted: #4a4f57;
+    --accent: #0a63c9;
+    --radius: 12px;
+    --gap: clamp(1.25rem, 4vw, 2.5rem);
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-/* Desktop styles */
-@media (min-width: 992px) {
-    .text-container p {
-        text-align: left;
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #111417;
+        --text: #e9edf2;
+        --muted: #b3bcc8;
+        --accent: #7ab8ff;
     }
-    .text-container h1 {
-        text-align: left;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    padding: clamp(1.5rem, 6vw, 4rem) clamp(1rem, 5vw, 2rem);
+    font-family: var(--font);
+    font-size: 1rem;
+    line-height: 1.65;
+    color: var(--text);
+    background: var(--bg);
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+a {
+    color: var(--accent);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+a:hover {
+    text-decoration-thickness: 2px;
+}
+
+a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 3px;
+}
+
+.page {
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+/* Profile: photo/socials beside the bio on wide screens, stacked on narrow ones. */
+.profile {
+    display: grid;
+    grid-template-columns: minmax(160px, 220px) minmax(0, 1fr);
+    gap: var(--gap);
+    align-items: start;
+}
+
+.portrait img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: var(--radius);
+}
+
+.social {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem;
+    margin-top: 0.9rem;
+}
+
+.social a {
+    display: inline-flex;
+    border-radius: 8px;
+}
+
+.social img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+}
+
+.bio h1 {
+    margin: 0 0 1rem;
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+}
+
+p {
+    margin: 0 0 1rem;
+    color: var(--muted);
+}
+
+.origami {
+    margin-top: clamp(2rem, 6vw, 3.5rem);
+}
+
+.origami h2 {
+    margin: 0 0 0.5rem;
+    font-size: clamp(1.4rem, 3.5vw, 1.9rem);
+    line-height: 1.2;
+}
+
+/* Two columns on phones, three on larger screens (6 posts = 2x3 / 3x2). */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+}
+
+@media (min-width: 640px) {
+    .gallery {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
     }
-    .text-container h3 {
-        text-align: left;
+}
+
+.gallery a {
+    display: block;
+    overflow: hidden;
+    border-radius: var(--radius);
+}
+
+.gallery img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: var(--radius);
+    transition: transform 0.2s ease;
+}
+
+.gallery a:hover img,
+.gallery a:focus-visible img {
+    transform: scale(1.04);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .gallery img {
+        transition: none;
+    }
+}
+
+/* The icons are black artwork, so invert them on dark backgrounds. */
+@media (prefers-color-scheme: dark) {
+    .social img {
+        filter: invert(1);
+    }
+}
+
+@media (max-width: 640px) {
+    .profile {
+        grid-template-columns: 1fr;
+    }
+
+    .portrait {
+        width: min(220px, 65vw);
+        margin: 0 auto;
     }
 }
